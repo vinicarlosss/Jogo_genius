@@ -28,3 +28,15 @@ body{
     background-color: blue;
     border-bottom-right-radius: 100%;
 }
+
+.red{
+    grid-area: vermelho;
+    background-color: red;
+    border-top-right-radius: 100%;
+}
+
+.yellow{
+    grid-area: amarelo;
+    background-color: yellow;
+    border-bottom-left-radius: 100%;
+}
